@@ -1,0 +1,1 @@
+# futures-leap-trade-journal
