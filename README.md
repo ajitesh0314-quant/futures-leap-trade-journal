@@ -13,8 +13,8 @@ It contains the TradingView trade-history export, competition leaderboard result
 | Metric | Result |
 |---|---:|
 | **Participants** | 103,158 |
-| **Final Rank** | **13,230** |
-| **Leaderboard Position** | **Top 13%** |
+| **Final Rank** | **10,935** |
+| **Leaderboard Position** | **Top 11%** |
 | **Starting Capital** | $250,000 |
 | **Final Equity** | **$273,989** |
 | **Net Realized P&L** | **+$23,989** |
